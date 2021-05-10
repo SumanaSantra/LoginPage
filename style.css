@@ -19,7 +19,7 @@ body {
   padding: 20px;
 }
 
-form{
+form, .content{
   width: 30%
   margin: 0px auto;
   padding: 20px;
